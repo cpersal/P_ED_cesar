@@ -10,6 +10,9 @@ public class Calculadora {
         int n1 = 0;
         int n2 = 0;
         int solucion =0;
+        
+        System.out.println("buenas, gracias por usar la calculadora");
+        
         while (n != 5) {
             System.out.println("elige lo que quieres hacer");
             System.out.println("1 sumar");
